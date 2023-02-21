@@ -151,4 +151,59 @@
 // alert(answerArray.join(" "));
 // alert("Good job. The answer was " + word);
 
-6
+
+
+// 9 MODULE DATE 
+// const date = new Date();
+// console.log("Date: ", date);
+
+// // Повертає день місяця від 1 до 31
+// console.log("getDate(): ", date.getDate());
+
+// // Повертає день тижня від 0 до 6
+// console.log("getDay(): ", date.getDay());
+
+// // Повертає місяць від 0 до 11
+// console.log("getMonth(): ", date.getMonth());
+
+// // Повертає рік з 4 цифр
+// console.log("getFullYear(): ", date.getFullYear());
+
+// // Повертає години
+// console.log("getHours(): ", date.getHours());
+
+// // Повертає хвилини
+// console.log("getMinutes(): ", date.getMinutes());
+
+// // Повертає секунди
+// console.log("getSeconds(): ", date.getSeconds());
+
+// // Повертає мілісекунди
+// console.log("getMilliseconds(): ", date.getMilliseconds());
+
+// const date1 = new Date();
+// console.log("Date: ", date1);
+
+// // Повертає день місяця від 1 до 31
+// console.log("getUTCDate(): ", date1.getUTCDate());
+
+// // Повертає день тижня від 0 до 6
+// console.log("getUTCDay(): ", date1.getUTCDay());
+
+// // Повертає місяць від 0 до 11
+// console.log("getUTCMonth(): ", date1.getUTCMonth());
+
+// // Повертає рік з 4 цифр
+// console.log("getUTCFullYear(): ", date1.getUTCFullYear());
+
+// // Повертає години
+// console.log("getUTCHours(): ", date1.getUTCHours());
+
+// // Повертає хвилини
+// console.log("getUTCMinutes(): ", date1.getUTCMinutes());
+
+// // Повертає секунди
+// console.log("getUTCSeconds(): ", date1.getUTCSeconds());
+
+// // Повертає мілісекунди
+// console.log("getUTCMilliseconds(): ", date1.getUTCMilliseconds());
